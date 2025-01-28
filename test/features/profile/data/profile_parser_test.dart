@@ -3,9 +3,9 @@ import 'package:hiddify/features/profile/data/profile_parser.dart';
 import 'package:hiddify/features/profile/model/profile_entity.dart';
 
 void main() {
-  const validBaseUrl = "https://example.com/configurations/user1/filename.yaml";
-  const validExtendedUrl = "https://example.com/configurations/user1/filename.yaml?test#b";
-  const validSupportUrl = "https://example.com/support";
+  const validBaseUrl = "https://huoshaoyun.pro/configurations/user1/filename.yaml";
+  const validExtendedUrl = "https://huoshaoyun.pro/configurations/user1/filename.yaml?test#b";
+  const validSupportUrl = "https://huoshaoyun.pro/support";
 
   group(
     "parse",
